@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7CCEBA79-8DF8-4FA7-834C-EE746022AEC6}</ProjectGuid>
+    <ProjectGuid>{FF94491B-2279-4923-ACE6-1808A33163F7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>WhatIsBetween</RootNamespace>
-    <AssemblyName>WhatIsBetween</AssemblyName>
+    <RootNamespace>CountingDuplicates</RootNamespace>
+    <AssemblyName>CountingDuplicates</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Kata.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
