@@ -2,6 +2,7 @@
 
 namespace MergedStringChecker
 {
+    // todo
     class StringMerger
     {
         static void Kata(string[] args)

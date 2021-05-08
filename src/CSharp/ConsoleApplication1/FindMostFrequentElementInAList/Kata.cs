@@ -5,15 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-// Only for C++
+// Only for C++ for now.
 
 namespace FindMostFrequentElementInAList
 {
-    class Program
+    class Kata
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }

@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace Kataclysm
 {
-    class Program
+    class Kata
     {
-        static void Main(string[] args)
-        {
-        }
+        
     }
 }
