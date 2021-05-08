@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Linq.Enumerable;
+﻿using static System.Linq.Enumerable;
 
 namespace BitCounting
 {
